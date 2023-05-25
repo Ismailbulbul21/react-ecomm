@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-ecomm/static/css/main.ef175603.css",
+    "main.js": "/react-ecomm/static/js/main.bc63d6c1.js",
+    "static/media/sawir6.jpg": "/react-ecomm/static/media/sawir6.5d5febd098bbb302b61d.jpg",
+    "static/media/sawir4.jpg": "/react-ecomm/static/media/sawir4.18c3270b36954e4c6e71.jpg",
+    "static/media/sawir2.jpg": "/react-ecomm/static/media/sawir2.b5354cbec97a31b31a77.jpg",
+    "static/media/sawir3.jpg": "/react-ecomm/static/media/sawir3.a28ca87c3285174144bc.jpg",
+    "static/media/sawir5.jpg": "/react-ecomm/static/media/sawir5.b98ce429f0bb31c70af4.jpg",
+    "static/media/sawir1.jpg": "/react-ecomm/static/media/sawir1.5a69f285b5d252c73299.jpg",
+    "index.html": "/react-ecomm/index.html",
+    "main.ef175603.css.map": "/react-ecomm/static/css/main.ef175603.css.map",
+    "main.bc63d6c1.js.map": "/react-ecomm/static/js/main.bc63d6c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef175603.css",
+    "static/js/main.bc63d6c1.js"
+  ]
+}
